@@ -1,0 +1,24 @@
+{
+  "totalBuilds": 2,
+  "totalBuildsApproved": 2,
+  "totalBuildsUnreviewed": 0,
+  "totalBuildsFailed": 0,
+  "totalBuildsRequestingChanges": 0,
+  "totalSnapshots": 6,
+  "totalSnapshotsRequestingChanges": 0,
+  "totalSnapshotsUnreviewed": 0,
+  "totalSnapshotsReviewed": 6,
+  "totalComparisons": 48,
+  "projectURL": "https://percy.io/385b3df5/wikimedia-demo",
+  "unreviewedBuilds": [],
+  "failedBuilds": [],
+  "browsers": [
+    "Safari",
+    "Chrome",
+    "Firefox",
+    "Edge"
+  ],
+  "projectName": "wikimedia-demo",
+  "startDate": "2023-10-10T18:30:00.000Z",
+  "endDate": "2023-10-11T18:29:59.999Z"
+}
